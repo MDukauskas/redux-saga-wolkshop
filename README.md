@@ -1,4 +1,4 @@
-# React Redux, Saga Workshop
+# React Redux, Redux-Saga Workshop
 
 ### Start project
 
