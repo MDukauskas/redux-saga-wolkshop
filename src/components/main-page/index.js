@@ -8,7 +8,7 @@ export const MainPage = () => (
         <h3>Add todo item</h3>
         <TodoForm />
         <h3>Todo List</h3>
-        <TodoList items={["test 1", "test 2"]} />
+        <TodoList items={} />
       </Flex>
     </Flex>
   </React.Fragment>
